@@ -1,0 +1,14 @@
+{
+  "name": "SamaTool",
+  "short_name": "SamaTool",
+  "description": "Mon champ, ma tranquillité.",
+  "start_url": "/",
+  "display": "standalone",
+  "lang": "fr",
+  "background_color": "#f2f6f1",
+  "theme_color": "#123f26",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
